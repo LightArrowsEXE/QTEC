@@ -6,43 +6,63 @@ If you know any QTEC'd shows that are missing from this list, please contact me 
 
 ## About
 
-QTEC is a BD authoring company widely-known throughout the anime encoding community for their heavy and poor filtering of SD shows.
-As a result, shows that received their filtering (or similar filtering from other companies) became colloquially known as being "QTEC'd".
-This list exists to document such cases, so while not every show will be a QTEC release, they will have received similar filtering and are just as unpreferable as QTEC's awful BDs.
+QTEC is a BD authoring company widely-known throughout the anime encoding community
+for their heavy and poor filtering of SD shows.
+As a result, shows that received their filtering
+(or similar filtering from other companies)
+became colloquially known as being "QTEC'd".
 
-Their lineart is often mangled, temporally unstable, and has a weird watercolour-like effect. Haloing is common.
-Textures may have been denoised away, or turned into a slushie. Colours are often negatively affected.
-They are typically also poorly deinterlaced and scaled, leading to issues when dealing with subbing or filtering that requires an accurate PAR.
+This list exists to document such cases,
+so while not every show will be a QTEC release,
+they will have received similar filtering
+and are just as unpreferable as QTEC's awful BDs.
 
-This document exists to give readers an easy place to link to.
+Their lineart is often mangled, temporally unstable,
+and has a weird watercolour-like effect.
+Haloing is common.
+Textures may have been denoised away,
+or turned into a slushie.
+Colours are often negatively affected.
+They are typically also poorly deinterlaced and scaled,
+leading to issues when dealing with subbing
+or filtering that requires an accurate PAR.
 
-If you have an interest in encoding these shows, please double-check all available sources you can get your hands on.
+If you have an interest in encoding these shows,
+please double-check all available sources you can get your hands on.
 Do note that it's not uncommon for DVDs that came out later to be downscales of the QTEC masters!
 
 What this list **is not**:
 
 * A list of all bad BDs.
-  * Plenty bad BDs exist. This list is exclusively for shows that were QTEC'd, or received filtering on par with a QTEC SD upscale.
+  * Plenty bad BDs exist.
+    This list is exclusively for shows that were QTEC'd,
+    or received filtering on par with a QTEC SD upscale.
 * A recommendation for what release to grab.
-  * If you want to know what the best encode is for any given show, consult the [SeaDex](https://sneedex.moe/).
+  * If you want to know what the best encode is for any given show,
+   consult the [SeaDex](https://sneedex.moe/).
 
 ## Legenda
 
 These are additional icons to indicate special qualities about any shows on this list.
 
 * `*`
-  * This show has known DVDs or SD BDs that use the QTEC master. Be careful when picking sources!
+  * This show has known DVDs or SD BDs that use the QTEC master.
+    Be careful when picking sources!
 * `^`
-  * This show has known specials included on the BDs that are not QTEC'd. This may not be every special!
+  * This show has known specials included on the BDs that are not QTEC'd.
+    This may not be every special!
 * `%`
-  * This show is known to be only partially QTEC'd. This could be certain episodes, or just specials.
+  * This show is known to be only partially QTEC'd
+   This could be certain episodes, or just specials.
 * `&`
-  * This show has a web-sourced upscale that's QTEC'd and would otherwise be considered a primary source.
-
+  * This show has a web-sourced upscale that's QTEC'd
+    and would otherwise be considered a primary source.
 
 ## List of QTEC'd Anime
 
-This list is not sorted in any particular order. If you're looking for a specific show, ctrl+f the show's name in romaji (following anidb naming).
+This list is not sorted in any particular order.
+If you're looking for a specific show,
+ctrl+f the show's name in romaji (following anidb naming).
 
 * [AIR](https://anidb.net/anime/2002)
 * [Ao no 6-gou](https://anidb.net/anime/361)
