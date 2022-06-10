@@ -79,7 +79,7 @@ ctrl+f the show's name in romaji (following anidb naming).
 * [Boogiepop wa Warawanai: Boogiepop Phantom](https://anidb.net/anime/179)
 * [Chobits](https://anidb.net/anime/12)
 * [Cossette no Shouzou](https://anidb.net/anime/1266)
-* [Cowboy Bebop](https://anidb.net/anime/23) `%`[^4]
+* [Cowboy Bebop](https://anidb.net/anime/23) `%`[^11]
 * [D.Gray-man](https://anidb.net/anime/4549) `%`[^3]
 * [Death Note](https://anidb.net/anime/4563)
 * [Dragon Ball Z](https://anidb.net/anime/1530) `%`[^6]
@@ -169,3 +169,4 @@ ctrl+f the show's name in romaji (following anidb naming).
 [^8]: Cel episodes only
 [^9]: Episode 16 only
 [^10]: Episode 1 only
+[^11]: Episode 20 and 23 were QTEC'd, as well as random scenes throughout the show
