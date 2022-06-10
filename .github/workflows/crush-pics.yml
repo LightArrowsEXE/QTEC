@@ -2,6 +2,7 @@ name: Crush images
 on:
   push:
     paths:
+      - '**.jpg'
       - '**.png'
 jobs:
   crush:
