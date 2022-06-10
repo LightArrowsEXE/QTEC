@@ -109,6 +109,7 @@ ctrl+f the show's name in romaji (following anidb naming).
 * [Inuyasha](https://anidb.net/anime/144) `%`[^8]
 * [Kaleido Star](https://anidb.net/anime/635)
 * [Kareshi Kanojo no Jijou](https://anidb.net/anime/199)
+* [Kidou Senshi Gundam ZZ](https://anidb.net/anime/719) `%`[^10]
 * [Kimi no Na wa.](https://anidb.net/anime/11829)[^7]
 * [Koukaku Kidoutai S.A.C. 2nd GIG](https://anidb.net/anime/1176)
 * [Koukaku Kidoutai Stand Alone Complex](https://anidb.net/anime/247)
@@ -145,7 +146,7 @@ ctrl+f the show's name in romaji (following anidb naming).
 * [Shakugan no Shana II](https://anidb.net/anime/5145)
 * [Shakugan no Shana](https://anidb.net/anime/3408)
 * [Shaman King](https://anidb.net/anime/92) `&`
-* [Shinseiki Evangelion](https://anidb.net/anime/22)
+* [Shinseiki Evangelion](https://anidb.net/anime/22) `%`[^9]
 * [Shuffle!](https://anidb.net/anime/2844)
 * [Soul Eater](https://anidb.net/anime/5610)[^4]
 * [Strike Witches](https://anidb.net/anime/5970)
@@ -166,3 +167,5 @@ ctrl+f the show's name in romaji (following anidb naming).
 [^6]: First 50 episodes have a proper 1080p scan
 [^7]: HD -> UHD upscale
 [^8]: Cel episodes only
+[^9]: Episode 16 only
+[^10]: Episode 1 only
