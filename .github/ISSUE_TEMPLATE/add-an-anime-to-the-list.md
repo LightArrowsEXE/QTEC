@@ -20,7 +20,7 @@ Please fill in the following fields:
 
 [ fill in here ]
 
-## Screenshots** *(if you have any*)
+## Screenshots** *(if you have any of the **source**. **NOT** a re-encode!*)
 
 [ fill in here ]
 
