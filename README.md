@@ -86,9 +86,8 @@ This list is not sorted in any particular order. If you're looking for a specifi
 * [Ichigo Marshmallow](https://anidb.net/anime/2787)
 * [Initial D Second Stage](https://anidb.net/anime/145)
 * [Initial D](https://anidb.net/anime/135)
-* [Inuyasha](https://anidb.net/anime/144)
+* [Inuyasha](https://anidb.net/anime/144) `%`[^8]
 * [Kaleido Star](https://anidb.net/anime/635)
-* [Kannagi](https://anidb.net/anime/5720)
 * [Kareshi Kanojo no Jijou](https://anidb.net/anime/199)
 * [Kimi no Na wa.](https://anidb.net/anime/11829)[^7]
 * [Koukaku Kidoutai S.A.C. 2nd GIG](https://anidb.net/anime/1176)
@@ -146,3 +145,4 @@ This list is not sorted in any particular order. If you're looking for a specifi
 [^5]: SD episodes only, HD episodes unaffected
 [^6]: First 50 episodes have a proper 1080p scan
 [^7]: HD -> UHD upscale
+[^8]: Cel episodes only
