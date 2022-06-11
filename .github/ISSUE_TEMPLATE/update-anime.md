@@ -1,8 +1,8 @@
 ---
-name: Suggest a fix
-about: Use this template if you think we made a mistake and want us to correct it.
-title: "[Mistake] Anime Name"
-labels: 'fix entry'
+name: Request an update
+about: Use this template if you want us to update an entry.
+title: "[Update] Anime Name"
+labels: 'update entry'
 assignees: LightArrowsEXE
 
 ---
@@ -15,7 +15,7 @@ Please fill in the following fields:
 
 **Anime name**:
 
-## What was the mistake that requires fixing?
+## What information needs to be changed?
 
 ## Screenshots** *(if applicable*)
 

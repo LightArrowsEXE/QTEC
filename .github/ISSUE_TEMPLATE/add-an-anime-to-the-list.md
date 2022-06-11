@@ -1,7 +1,7 @@
 ---
-name: Add an anime to the list
-about: Use this template if you'd like to request we add an anime to the list.
-title: "[Request] Name of your anime"
+name: Add an entry
+about: Use this template if you'd like to request we add an entry.
+title: "[Request] Anime Name"
 labels: 'new entry'
 assignees: LightArrowsEXE
 
@@ -18,10 +18,6 @@ Please fill in the following fields:
 
 ## What is wrong with the anime?
 
-[ fill in here ]
-
 ## Screenshots** *(if you have any of the **source**. **NOT** a re-encode!*)
-
-[ fill in here ]
 
 ## Additional comments
