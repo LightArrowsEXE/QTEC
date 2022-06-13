@@ -21,4 +21,4 @@
 
 ## Additional notes
 
-None
+[Issue](https://github.com/LightArrowsEXE/QTEC/issues/5)
