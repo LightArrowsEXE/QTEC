@@ -21,6 +21,11 @@ This list is not sorted in any particular order.
 If you're looking for a specific show,
 ctrl+f the show's name in romaji (following anidb naming).
 
+**Note**: If a show has an entry in the [entries directory](/entries/),
+it will be removed from this list.
+For a full overview,
+you should check out both this and that directory for the time being.
+
 * [AIR](https://anidb.net/anime/2002)
 * [Ao no 6-gou](https://anidb.net/anime/361)
 * [Aria the Animation](https://anidb.net/anime/2659)
@@ -41,7 +46,6 @@ ctrl+f the show's name in romaji (following anidb naming).
 * [Death Note](https://anidb.net/anime/4563)
 * [Dragon Ball Z](https://anidb.net/anime/1530) `%`[^6]
 * [Dragon Ball](https://anidb.net/anime/231)
-* [Eikoku Koi Monogatari Emma](https://anidb.net/anime/2695)
 * [Fairy Tail](https://anidb.net/anime/6662) `*`
 * [FLCL](https://anidb.net/anime/117)
 * [Fruits Basket](https://anidb.net/anime/34)
@@ -86,7 +90,6 @@ ctrl+f the show's name in romaji (following anidb naming).
 * [Minami-ke](https://anidb.net/anime/4309)
 * [Naruto Shippuuden](https://anidb.net/anime/4880)
 * [Naruto](https://anidb.net/anime/239)
-* [Negima!?](https://anidb.net/anime/4565)
 * [NieA Under 7](https://anidb.net/anime/46)
 * [One Piece](https://anidb.net/anime/69) `&%`[^5]
 * [Ouran Koukou Host Club](https://anidb.net/anime/4148)
@@ -101,7 +104,6 @@ ctrl+f the show's name in romaji (following anidb naming).
 * [Sayonara Zetsubou-sensei](https://anidb.net/anime/5083)
 * [Seitokai no Ichizon](https://anidb.net/anime/6556)
 * [Shakugan no Shana II](https://anidb.net/anime/5145)
-* [Shakugan no Shana](https://anidb.net/anime/3408)
 * [Shaman King](https://anidb.net/anime/92) `&`
 * [Shinseiki Evangelion](https://anidb.net/anime/22) `%`[^9]
 * [Shuffle!](https://anidb.net/anime/2844)
